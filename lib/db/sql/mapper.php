@@ -13,7 +13,7 @@
 	Please see the license.txt file for more information.
  */
 
-namespace DB\SQL1;
+namespace DB\SQL;
 
 //! SQL data mapper
 class Mapper extends \DB\Cursor {
